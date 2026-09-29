@@ -5,7 +5,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Orchestration-darkgreen.svg)](https://www.langchain.com/)
 [![FAISS](https://img.shields.io/badge/Meta-FAISS-purple.svg)](https://github.com/facebookresearch/faiss)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
-[![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-SIH%202026-orange.svg)](#)
+
 
 An autonomous semantic recommendation and regulatory compliance engine designed for public sector procurement portals (such as GeM and CPPP). Built for Problem Statement **SIH26108**, this engine bridges the gap between natural language tender specifications and official Bureau of Indian Standards (BIS) codes.
 
